@@ -1,1 +1,1 @@
-# college-gaming-tournament-manager
+# college-gaming-tournament-registration
